@@ -9,4 +9,4 @@ to install the project dependencies, and:
 
     npm start
     
-to start the development server with enabled hot loading
+to start the development server with enabled hot reloading
